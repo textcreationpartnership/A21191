@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Syr Eglamonre [sic] of Artoys</title>
+            <title>Sir Eglamour.</title>
+         </titleStmt>
+         <extent>Approx. 50KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21191</idno><idno type="EEBO-CITATION">99853666</idno>
+  <idno type="VID">19060</idno>
+  <idno type="EEBO-PROQUEST">2240933824</idno>
+  <idno type="STC">STC 7543</idno>
+  <idno type="STC">ESTC S118459</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99853666e"/>
+            <note>(EEBO-TCP ; phase 2, no. A21191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19060)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1201:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Syr Eglamonre [sic] of Artoys</title>
+                  <title>Sir Eglamour.</title>
+               </titleStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>By William Copland,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>[ca. 1555?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imprint from colophon; estimated publication date from STC.</note>
+                  <note>A paginary reprint of STC 7542.7 with various lines omitted through negligence; e.g. A4v has 34 lines, C2v has only 31.</note>
+                  <note>Signatures: A-E⁴.</note>
+                  <note>D1r line 1 begins: But Foules.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Romances, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19060:1"/>
+            <pb facs="tcp:19060:1"/>
+            <p>¶ Syr Eglamonre of Artoys.</p>
+            <p>
+               <figure>
+                  <figDesc>woodcut of knight on horse wielding sword; castle or city in background</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:19060:2"/>
+            <lg>
+               <l>IEsu Christe heauen King</l>
+               <l>graunt vs all his deer blessing</l>
+               <l>And build vs in his Bower</l>
+               <l>And giue them ioy that wil here</l>
+               <l>Of Elders that before vs were</l>
+               <l>That liued in great honour</l>
+               <l>I will tel you of a Knight</l>
+               <l>that was bothe bolde hardy and wight</l>
+               <l>And stife in euery stoure</l>
+               <l>Where any deedes of armes were</l>
+               <l>the price he wan with sheeld</l>
+               <l>And euer he was the flower</l>
+               <l>In Artoys the Knight was borne</l>
+               <l>And his Father him beforne</l>
+               <l>Listen I will you say</l>
+               <l>Sir that he was a man full bolde</l>
+               <l>With the Erle was he holde</l>
+               <l>In howsholde night and day</l>
+               <l>Sir Prinsamoure the Erle hight</l>
+               <l>Sir Eglamoure then hight the Knight</l>
+               <l>that curteise was alway</l>
+               <l>And for he was a man verament</l>
+               <l>With the Erle was he lent</l>
+               <l>To no man would he say nay</l>
+               <l>the Erie had no Childe but one</l>
+               <l>A maiden as white as whales bone</l>
+               <l>that his right heir should be</l>
+               <l>Christabel was that Ladyes name</l>
+               <l>A fayrer mayden than she was one</l>
+               <l>Was not in christentie</l>
+               <l>Crystabel so wel her bore.</l>
+               <l>the Erle looued nothing more</l>
+               <l>then his daughter free</l>
+               <pb facs="tcp:19060:2"/>
+               <l>So did that gentle knight</l>
+               <l>It was the more pitie</l>
+               <l>The knight was bothe hardy and snel</l>
+               <l>And knew the Lady looued him well</l>
+               <l>Listen a while and dwell</l>
+               <l>Lords came from many a land</l>
+               <l>Her to haue I vnderstand</l>
+               <l>With force foide and fel</l>
+               <l>Sir Priamour than did cry</l>
+               <l>Strong iusting and tournamentry</l>
+               <l>For the looue of Cristabel</l>
+               <l>What man that did her craue</l>
+               <l>Such strokes Eglamoure him gaue</l>
+               <l>That downe right he fell</l>
+               <l>To his chameberlain gan he say</l>
+               <l>Where they did togither rest</l>
+               <l>Fair frend naught to laine</l>
+               <l>My counsail to thee would I saine</l>
+               <l>On thee is all my trest</l>
+               <l>Maister he said per ma fay</l>
+               <l>What so euer ye to me say</l>
+               <l>I shall it neuer our cast</l>
+               <l>The Erles daughter so God me saue</l>
+               <l>The looue of her but that I haue</l>
+               <l>My life it may not last</l>
+               <l>My life els haue I lost</l>
+               <l>Maister then said the yung man free</l>
+               <l>You haue tolde me your priuitie</l>
+               <l>I will giue you answere</l>
+               <l>To this tale vnderstand</l>
+               <l>ye are a knight of litle land</l>
+               <l>And much would haue more</l>
+               <l>If I should to that Lady gon</l>
+               <pb facs="tcp:19060:3"/>
+               <l>And shew it to my hart and looue</l>
+               <l>She lightly would let me fare</l>
+               <l>The man that heweth ouer hyr</l>
+               <l>Some chip falleth on his eye</l>
+               <l>Thus dooth it euer fare</l>
+               <l>Remember Master of one thing</l>
+               <l>That her would haue bothe erle and King</l>
+               <l>And many a bolde barone also</l>
+               <l>The Lady wil none of tho</l>
+               <l>But in her maidenhed holde</l>
+               <l>For wist her Father by heauen King</l>
+               <l>That ye were set on such a thing</l>
+               <l>Right deer it should be bought</l>
+               <l>Trew ye she would King forsake</l>
+               <l>And such a simple Knight take</l>
+               <l>But if ye haue loued her of olde</l>
+               <l>The Knight answered ful milde</l>
+               <l>Sir euer sith you were a Childe</l>
+               <l>Thou hast been looued of me</l>
+               <l>In any iusting or in any stoure</l>
+               <l>Saw thou me haue any dishonour</l>
+               <l>Nay master at all rights</l>
+               <l>Ye are one of the best Knights</l>
+               <l>That is in christente</l>
+               <l>In deeds of armes by God on liue</l>
+               <l>Thy body is woorth other fiue</l>
+               <l>Gramercy sir sayd he</l>
+               <l>Eglamoure sighed an sayed no more</l>
+               <l>But to his chamber gan he fare</l>
+               <l>That richly was wrought</l>
+               <l>To God his hands he held vp soone</l>
+               <l>Lord he said graunt me a boune</l>
+               <l>As thou on roode me bought</l>
+               <pb facs="tcp:19060:3"/>
+               <l>The Erles daughter fair and free</l>
+               <l>That she may my wife be</l>
+               <l>For she is moste in my thought</l>
+               <l>That I may wed her to my wife</l>
+               <l>And in ioy to lede our life</l>
+               <l>From care then were I brought</l>
+               <l>On the morow that maiden small</l>
+               <l>Eate with her father in the hall</l>
+               <l>That was so fair and bright</l>
+               <l>All the Knights were at meat saue he</l>
+               <l>The Lady said for Gods pitie</l>
+               <l>Where is Sir Eglamour my Knight</l>
+               <l>His Squire answered with heup cheere</l>
+               <l>He is sick and dead full neer</l>
+               <l>he prayeth you of a sight</l>
+               <l>He is now casten in such care</l>
+               <l>But if he amend of his fare</l>
+               <l>He liueth not to night</l>
+               <l>The Erle to his daughter spake</l>
+               <l>Damosel he said for Gods sake</l>
+               <l>Lysten vnto me</l>
+               <l>After me doo as I the hend</l>
+               <l>to his chamber see thou wend</l>
+               <l>For he was curteys and free</l>
+               <l>ful truely with his intent</l>
+               <l>In iusting and in turnament</l>
+               <l>He sayd vs neuer nay</l>
+               <l>where any deeds of armes were</l>
+               <l>he wan the price with tournay cleere</l>
+               <l>Our worship for cuer and aye</l>
+               <l>Then after meat that Lady gent</l>
+               <l>Did her Fathers commaundement</l>
+               <l>She bulked her to wend</l>
+               <l>With her she tooke her maidens two</l>
+               <pb facs="tcp:19060:4"/>
+               <l>And to his chamber did she go</l>
+               <l>That was curteous and hend</l>
+               <l>Foorth she went withouten more</l>
+               <l>For nothing would she spare</l>
+               <l>But went there as he lay</l>
+               <l>maister said the squier be of good cheere</l>
+               <l>Heere commeth the Eries oaughter deer</l>
+               <l>Some woords to the to say</l>
+               <l>And then said that Lady bright</l>
+               <l>How fateth sir Eglamoure my knight</l>
+               <l>That is man right fair</l>
+               <l>Forsooth Lady as ye may se</l>
+               <l>with Wo I am bound for the looue of thee</l>
+               <l>In longing and in care</l>
+               <l>Sir she said by Gods pitie</l>
+               <l>If ye be agreeued for me</l>
+               <l>It would greeue me full sore</l>
+               <l>Damosell might I turn to life</l>
+               <l>I would haue you to my wife</l>
+               <l>If it your wil were</l>
+               <l>Sir she said so mought I thee</l>
+               <l>ye are a noble knight and free</l>
+               <l>And come of gentle blood</l>
+               <l>A manfull man ye are in feeld</l>
+               <l>To win the gree with speare and sheeto</l>
+               <l>Nobly by the rood</l>
+               <l>Sir at my father I rede you witte</l>
+               <l>To see what he will say to it</l>
+               <l>Or if his will be good</l>
+               <l>And if that he be at assent</l>
+               <l>As I am true Lady and gent</l>
+               <l>My will it shall be good.</l>
+            </lg>
+            <lg>
+               <l>VHe Knight desired no other blesse</l>
+               <l>When he had gotten his grauntes</l>
+               <pb facs="tcp:19060:4"/>
+               <l>But made royall cheere</l>
+               <l>He commaunded a Squier to go</l>
+               <l>Of golde to fetch an C. yound or two</l>
+               <l>and giue the maidens clere</l>
+               <l>Sir Eglamoure said to haue I blys</l>
+               <l>To your mariage I giue you this</l>
+               <l>For ye neuer come heer ore</l>
+               <l>The Lady then thanked and kissed the knight</l>
+               <l>She took her leaue anon right</l>
+               <l>Far wel my true looue deer</l>
+               <l>Than homewarde she took her way</l>
+               <l>Welcome said the Erle in fay</l>
+               <l>Tel me how ye haue doon</l>
+               <l>Say my daughter as white as flower</l>
+               <l>How fareth my Knight sir Eglamoure</l>
+               <l>And she answered him soone</l>
+               <l>Forsooth to me he hartely sware</l>
+               <l>He was amendid of his care</l>
+               <l>Good comfort hath he tane</l>
+               <l>He tolde me and my maidens hend</l>
+               <l>That he vnto the riuer would wend</l>
+               <l>With hounds and haukes right</l>
+               <l>The Erle said so mot I thee</l>
+               <l>with him wil I ride that sight to see</l>
+               <l>On the morow whan it was day</l>
+               <l>Sir Eglamoure took the way</l>
+               <l>To the riuer ful right</l>
+               <l>The erle made him redy there</l>
+               <l>And bothe they rod to the riuer</l>
+               <l>To se some fair flight</l>
+            </lg>
+            <lg>
+               <l>ALl the day they made good cheer</l>
+               <l>a wrath began as ye may heer</l>
+               <l>Long or it were night</l>
+               <pb facs="tcp:19060:5"/>
+               <l>As they rod homwarde in the way</l>
+               <l>Sir Eglamour to the Earle can say</l>
+               <l>my Lord wil ye now heare</l>
+               <l>All redy Eglamour in fay</l>
+               <l>what soeuer ye to me say</l>
+               <l>to me it is full dere</l>
+               <l>For why the doughtest art thou</l>
+               <l>That in this sand dwelleth now</l>
+               <l>For to here sheeld and spere</l>
+               <l>My Lord he sayd of charitie</l>
+               <l>Christabel your daughter free</l>
+               <l>whan shall she haue a fere</l>
+               <l>The Earle said so God me saue</l>
+               <l>I know no man that she would haue</l>
+               <l>My daughter fair and clere</l>
+               <l>Now good Lord I you pray</l>
+               <l>For I haue you serued many a day</l>
+               <l>To giue me her withouten nay</l>
+               <l>The Earle said by gods pain</l>
+               <l>If thou her win as I shall saine</l>
+               <l>By deeds of armes three</l>
+               <l>Then shalt thou haue my daughter deere</l>
+               <l>And all Artoys far and neere</l>
+               <l>gramercy sir said he</l>
+               <l>Sir Eglamoure said so mot I thee</l>
+               <l>At my tourney fain would I bee</l>
+               <l>Right soone he made him yare</l>
+               <l>The Erle said here by west</l>
+               <l>Dwelleth a giante in a forrest</l>
+               <l>Fowler neuer saw I ere</l>
+               <l>Therin be trees fair and long</l>
+               <l>Three h<gap reason="illegible" resp="#uom" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s run them among</l>
+               <l>The fairest that on foot gon</l>
+               <l>Sir might ye bring one a way</l>
+               <pb facs="tcp:19060:5"/>
+               <l>That durst I boldely say</l>
+               <l>That ye had beene there</l>
+               <l>Forsooth sayd Eglamoure then</l>
+               <l>If that he be a Christen man</l>
+               <l>I shall him neuer forfake</l>
+               <l>The Earle sayd in good cheere</l>
+               <l>With him shalt thou fight in fere</l>
+               <l>His name is Sir Marok</l>
+               <l>The Knight thought on Christabel</l>
+               <l>He swore by him that harowed Hel</l>
+               <l>Him would he neuer forsake</l>
+               <l>Sir kepe wel my Lady and my land</l>
+               <l>Therto the Earle held vp his hand</l>
+               <l>And trothes they did strike</l>
+               <l>Then afterward as I you say</l>
+               <l>Sir Eglamoure took the way</l>
+               <l>To that Lady so free</l>
+               <l>Damosell he sayd to her anon</l>
+               <l>For your looue I haue vndertane</l>
+               <l>Deeds of Armes three</l>
+               <l>Good Dir she sayd be mery and glad</l>
+               <l>For a wursse iourney ye neuer had</l>
+               <l>In no Christen Countre</l>
+               <l>If God graunt vs that is a grace</l>
+               <l>That we may from that iourney a pace</l>
+               <l>God graunt it may be so</l>
+               <l>Sir if you he on hunting found</l>
+               <l>I shall you giue a good Greyhound</l>
+               <l>That is dun as a Do</l>
+               <l>For as I am a true Gentlewoman</l>
+               <l>There was neuer Deere that he at ran</l>
+               <l>That might scape him fro</l>
+               <l>Also a Swoord I giue thee</l>
+               <l>That was found in the See</l>
+               <pb facs="tcp:19060:6"/>
+               <l>Of such knowe I no mo</l>
+               <l>If ye haue hap to keep it weel</l>
+               <l>There is no Helme of Iron and Steel</l>
+               <l>But it would carue in two</l>
+               <l>Eglamoure kissed that Lady gent</l>
+               <l>He took his leaue and foorth he went</l>
+               <l>His way now hath he tane</l>
+               <l>The hye streat heeld he West</l>
+               <l>Till he came to the Forest</l>
+               <l>Fayrer sawe he neuer none</l>
+               <l>With Trees of Cipresse lying out</l>
+               <l>The Wood was walled all about</l>
+               <l>With strong walles of stone</l>
+               <l>Foorth he rode as I vnderstond</l>
+               <l>Till the time that a Gate he fond</l>
+               <l>And therin is he gone</l>
+               <l>His horne he blew in that tide</l>
+               <l>Hartes start vp on euery side</l>
+               <l>And a noble Deer full prest</l>
+               <l>The Houndes at the Deer gan bay</l>
+               <l>That heard the Giant where he lay</l>
+               <l>It let him of his rest</l>
+               <l>Me thinketh by Hounds that I heare</l>
+               <l>That there is one hunting my Deer</l>
+               <l>It were better that he ceasse</l>
+               <l>By him that ware the Crown of thorn</l>
+               <l>In a wursse time blew he neuer horne</l>
+               <l>Ne deerer bought a messe</l>
+               <l>Marock the Grant took the way</l>
+               <l>Through the Forest there it lay</l>
+               <l>To the gate he set his back</l>
+               <l>Sir Eglamoure hath doone to dead</l>
+               <l>Slaine an Hart and smitten of his head</l>
+               <l>The price he blew full shrill</l>
+               <pb facs="tcp:19060:6"/>
+               <l>And when he came there the Giant was</l>
+               <l>Good Sir he sayd let me passe</l>
+               <l>If that it be your will</l>
+               <l>Nay Traitour thou art tane</l>
+               <l>My principall Hart thou hast slaine</l>
+               <l>Thou shalt it like ful ill</l>
+            </lg>
+            <lg>
+               <l>THe Biant at the chase</l>
+               <l>I great Club he vp takes</l>
+               <l>That villanous was and great</l>
+               <l>Such a stroke he him gaue</l>
+               <l>That into the earth went his staffe</l>
+               <l>A foot on euery side</l>
+               <l>Trait our he sayd what doost thou heer</l>
+               <l>In my Forest to sley my Deer</l>
+               <l>Heer shalt thou now avide</l>
+               <l>Eglamoure his swoord out drew</l>
+               <l>And in his sight made such a shew</l>
+               <l>And made him blinde that tide</l>
+               <l>How be it he lost his sight</l>
+               <l>He fought with Sir Eglamoure that Knight</l>
+               <l>Two dayes and more</l>
+               <l>Till the third day at prime</l>
+               <l>Sir Eglamoure wayted well his time</l>
+               <l>And to the hart him bare</l>
+               <l>Through Gods might and his knife</l>
+               <l>There the Giant lost his life</l>
+               <l>Fast he began to rore</l>
+               <l>For certaine sooth as Iyou say</l>
+               <l>When he was moten there he lay</l>
+               <l>He was fifteene foot and more</l>
+               <l>Through the might of God and of his knife,</l>
+               <l>Thus hath the Biant lost his life</l>
+               <l>He may thank God of his b<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one</l>
+               <l>The Giants head with him he bare</l>
+               <pb facs="tcp:19060:7"/>
+               <l>The right way he found thare</l>
+               <l>Til he came to the Castell of stone</l>
+               <l>All the whole Court came him againe</l>
+               <l>Such a head they gan sayne</l>
+               <l>Saw they neuer none</l>
+               <l>Before the Earle he it bare</l>
+               <l>My Lord he sayd I haue beene thare</l>
+               <l>Witnesse of you all</l>
+               <l>The Earle sayd sith it is doone</l>
+               <l>An other iourney there shall come soone</l>
+               <l>Busk thee and make thee ayre</l>
+               <l>To Satin that Countre</l>
+               <l>For therin may no man be</l>
+               <l>For dout of a Bore</l>
+               <l>His tusks are a yard long</l>
+               <l>What flesh that they come among</l>
+               <l>It couereth neuer more</l>
+               <l>Bothe man and Beast it sleyeth</l>
+               <l>All that euer he ouer taketh</l>
+               <l>And giueth them wounds sore</l>
+               <l>Sir Eglamoure would not gainsay</l>
+               <l>His leaue he tooke, and went his way</l>
+               <l>To his iourney went he</l>
+               <l>Toward Satin I vnderstand</l>
+               <l>A fourt night he went on Land</l>
+               <l>And all so long on See</l>
+               <l>It fel agayne the euening tide,</l>
+               <l>In to the Forest he did ride</l>
+               <l>Where as the Bore should be</l>
+               <l>And tidings of the Bore soone he found</l>
+               <l>By him men lay dead on many a lond</l>
+               <l>That pittie it was to see</l>
+               <l>Sir Eglamoure that Knight a woke</l>
+               <l>And priuely stood vnder an Oke</l>
+               <pb facs="tcp:19060:7"/>
+               <l>Til morowe the Sun shone bright</l>
+               <l>Into the Forest fast did he hye</l>
+               <l>Of the Bore he heard a cry</l>
+               <l>And neerer he gan gone right</l>
+               <l>Fayre Helmes he found in fere</l>
+               <l>That men of Armes had left there</l>
+               <l>That the Bore had staine</l>
+               <l>Eglamoure to the Cliffe went he</l>
+               <l>He saw the Bore come from the See</l>
+               <l>His morne draught had he tane</l>
+               <l>The Bore sawe where the Knight stood</l>
+               <l>His tusks he whetted as he were wood</l>
+               <l>To him he drew that ride</l>
+               <l>Sir Eglamoure wened well to doo</l>
+               <l>With a Speare he rode him to</l>
+               <l>As fast as he might ride</l>
+               <l>All if he rode neuer so fast</l>
+               <l>The good Speare a sunder brast</l>
+               <l>It would not in the hide</l>
+               <l>That Bore did him woe enough</l>
+               <l>His good horse vnder him he slough</l>
+               <l>On foot then must he bide</l>
+               <l>Eglamoure saw no boot that tide</l>
+               <l>But to an Oke he set his side</l>
+               <l>Among the trees great</l>
+               <l>His good swoord he drewe out than</l>
+               <l>And smote vppon the wilde Swine</l>
+               <l>Two dayes and somdele more</l>
+               <l>Til the third day at noone</l>
+               <l>Eglamoure thought his life was doone</l>
+               <l>For fighting with that Bore</l>
+               <l>Then Eglamoure with eger mood</l>
+               <l>Smote of the Bores head</l>
+               <l>His tusks he smote of there</l>
+               <pb facs="tcp:19060:8"/>
+               <l>The King of Satin on Hunting did fare</l>
+               <l>With fifteene armed men and more</l>
+               <l>The Bore loud heard he yell</l>
+               <l>He commaunded a Squier to fare</l>
+               <l>Some man is in perill there</l>
+               <l>I trowe so long we dwell</l>
+               <l>No longer wouid the squier tary</l>
+               <l>But thither rode falt vp saint Mary</l>
+               <l>He was therto full in all</l>
+               <l>Vp to the <gap reason="illegible" resp="#uom" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> he thore</l>
+               <l>Sir Eglamoure fought fai<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the Bore</l>
+               <l>With strokes fierce and fell</l>
+               <l>The squier stood and beheld them two</l>
+               <l>He went aga<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and tolde so</l>
+               <l>Forsooth the Bore is slaine</l>
+               <l>Lord saynt Mary how may this be</l>
+               <l>A Knight is yonder certainly</l>
+               <l>That was the Bores bane</l>
+               <l>Of Golde he beareth a seemly sight</l>
+               <l>A stede of <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and armed Knight</l>
+               <l>to batayle as he should gone</l>
+               <l>And on the Crest vpon the head is</l>
+               <l>A Lady made in her likenes</l>
+               <l>His spurres are Sablee the one</l>
+               <l>the King said so mote I thee</l>
+               <l>those rich armes will I see</l>
+               <l>And thither he took the way</l>
+               <l>By that time. Sir Eglamoure</l>
+               <l>Had ouercome the sharp stower</l>
+               <l>And <gap reason="illegible" resp="#uom" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>thwart the Bore lay</l>
+               <l>the King sayd God rest with thee</l>
+               <l>My Lord sayd Eglamoare welcome be ye</l>
+               <l>Of peace now I thee pray</l>
+               <l>I haue so foughten with the Bore</l>
+               <pb facs="tcp:19060:8"/>
+               <l>That certainly I may no more</l>
+               <l>this is the third day</l>
+               <l>They all sayd anon right</l>
+               <l>Great sinne it were with thee to fight</l>
+               <l>Or to doo thee any teene</l>
+               <l>manfully thou hast slaine this bore</l>
+               <l>that hath doon hurt sore</l>
+               <l>And many a mannes death hath been</l>
+               <l>thou hast manfully vnder sheeld</l>
+               <l>Slayne the bore heer in the feeld</l>
+               <l>that all we haue seen</l>
+               <l>This haue I wist the footh to say</l>
+               <l>that he hath slaine xl. on a day</l>
+               <l>Of my armed Knights keene</l>
+               <l>meat and drink they him brought</l>
+               <l>the rich wine they spared nought</l>
+               <l>And white clothes they spred</l>
+               <l>the King sayd so mote I thee</l>
+               <l>I will dine for the looue for thee</l>
+               <l>thou hast be hard bested</l>
+               <l>Forsooth then Sir Eglamoure sayes</l>
+               <l>I haue fought these foure dayes</l>
+               <l>And not a foot him fled</l>
+               <l>then sayd the King I pray thee</l>
+               <l>All night to dwel with me</l>
+               <l>And rest thee in a bed</l>
+               <l>And after meat the sooth to say</l>
+               <l>the King Sir Eglamoure did pray</l>
+               <l>Of what Countrey he was</l>
+               <l>my name he said is Eglamoure</l>
+               <l>I dwell also with Sir Prinsamoure</l>
+               <l>that Earle is of Artoys</l>
+               <l>then Lords to the King drew</l>
+               <l>this same is he that Marock slew</l>
+               <pb facs="tcp:19060:9"/>
+               <l>The Giants Brother Manas</l>
+               <l>Sir sayd the King I pray thee</l>
+               <l>These three dayes to dwell with me</l>
+               <l>From me thou shalt not passe</l>
+               <l>There dweileth a Giant heere beside</l>
+               <l>My Daughter that is of mickle pride</l>
+               <l>He would haue me <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ro</l>
+               <l>I dare to no place goe out</l>
+               <l>But men of Armes be me about</l>
+               <l>For dread of my foe</l>
+               <l>The Bore hait thou slaine heere</l>
+               <l>That hath heere dwelled this fifteen yeere</l>
+               <l>Christen men for to slo</l>
+               <l>Now is he goue with sorowe enough</l>
+               <l>To his Brocher that thou slough</l>
+               <l>To breke the bore they went ful tide</l>
+               <l>There was no knife that would him kite</l>
+               <l>So hard of hide was he</l>
+               <l>Sir Eglamoure thou him slough</l>
+               <l>I trowe thy swoord be good enough</l>
+               <l>Haue doone I pray thee</l>
+               <l>Eglamoure to the bore gan gone</l>
+               <l>And claue him by the ridge bone</l>
+               <l>That ioy it was to see</l>
+               <l>Lordings he sayd great and small</l>
+               <l>Giue me the head and take you all</l>
+               <l>For why that is my fee</l>
+               <l>The King said so God me saue and see</l>
+               <l>Thou halt bought it full deere</l>
+               <l>All the Countrey was fayne</l>
+               <l>For the wilde bore was slaine</l>
+               <l>They made full royall cheere</l>
+               <l>The Queen said God saue vs from shame</l>
+               <pb facs="tcp:19060:9"/>
+               <l>For when the Giant commeth home</l>
+               <l>New tidings shall be heere</l>
+               <l>Against euen the King did dight</l>
+               <l>A bathe for that gentle Knight</l>
+               <l>That was of Heches good</l>
+               <l>Sir Eglamoure therin lay</l>
+               <l>Til it was light of the day</l>
+               <l>That men to mattens yode</l>
+               <l>By the time he had heard Masse</l>
+               <l>The Giaut to his place come was</l>
+               <l>And cryed as he were wood</l>
+               <l>Sir King he sayd send vnto me</l>
+               <l>Ardnada thy Daughter free</l>
+               <l>Or I shall spil thy blood</l>
+               <l>Sir Egiamoure anon right</l>
+               <l>In good Armour he him dight</l>
+               <l>And vppon the walles he yode</l>
+               <l>He commaunded a Squier to beare</l>
+               <l>The Bores head vppon a speare</l>
+               <l>That the Giant might it see</l>
+               <l>And when he looked on the head</l>
+               <l>Alas he sayd and art thou dead</l>
+               <l>My trust was all in thee</l>
+               <l>Now by the law that I liue on</l>
+               <l>My little speckled Hoglin</l>
+               <l>Deer bought shall thy death be</l>
+               <l>The Giant on the walles dong</l>
+               <l>At euery stroke fire out sprong</l>
+               <l>For nothing would he spare</l>
+               <l>Toward the Castel gan he cry</l>
+               <l>False Traitour thou shalt dye</l>
+               <l>For sleying of my Bore</l>
+               <l>Your strong walles I shall down ding</l>
+               <l>And with my hands I shall thee hing</l>
+               <pb facs="tcp:19060:10"/>
+               <l>Ere that I larder passe</l>
+               <l>But through the grace of God almight</l>
+               <l>The Giant had his fill of fight.</l>
+               <l>And therto somedele more</l>
+               <l>Sir Eglamoure was not agast</l>
+               <l>On mightfull God was all his trust</l>
+               <l>And on his swoord so good</l>
+               <l>To Eglamoure sayd the King than</l>
+               <l>Best is to arme vs euery man</l>
+               <l>This theef I holde him wood</l>
+               <l>Sir Eglamoure sware by the rood</l>
+               <l>I shall him assay if he be wood</l>
+               <l>Mickel is Gods might</l>
+               <l>He rode a course to say his steed</l>
+               <l>He took his Helme and foorth he yeed</l>
+               <l>All men prayed for that Knight</l>
+               <l>Sir Eglamoure into the feeld taketh</l>
+               <l>The Giant see that and to him he goeth</l>
+               <l>Welcome he sayd my feer</l>
+               <l>Thou art he that slew my Bore</l>
+               <l>That shalt thou repent ful sore</l>
+               <l>And buy it wonder deer</l>
+               <l>Sir Eglamoure weened wel to doo</l>
+               <l>With a speare he rode him to</l>
+               <l>As a man of Armes cleer</l>
+               <l>Agayne him the Giant was redy</l>
+               <l>But Horse and man he hare all down</l>
+               <l>That dead he was wel neer</l>
+               <l>Sir Eglamoure could no better read</l>
+               <l>But what time his horse was dead</l>
+               <l>To his foot he hath him tane</l>
+               <l>And then Eglamoure to him gan go</l>
+               <l>The right arme he smote him fro</l>
+               <l>Euen by the shoulder bone</l>
+               <pb facs="tcp:19060:10"/>
+               <l>All if that he had lost his hand</l>
+               <l>All the day he stood fightand</l>
+               <l>Til the Sun to rest gan go</l>
+               <l>The sooth to say withouten lye</l>
+               <l>He sobbed and was so dry</l>
+               <l>That life him lasteth none</l>
+               <l>All that on the walles wore</l>
+               <l>When they heard the Giant rore</l>
+               <l>For ioy the belles they ring</l>
+               <l>Edmund was the Kings name</l>
+               <l>Swore to Sir Eglamoure by saint Iame</l>
+               <l>Heer shalt thou be King</l>
+               <l>To morowe crowned thou shalt be</l>
+               <l>And thou shalt wed my Daughter free</l>
+               <l>With a rich King</l>
+               <l>Eglamoure answered with woords milde</l>
+               <l>God giue you ioy of your Childe</l>
+               <l>For heer may not I abide long</l>
+               <l>Sir Eglamoure for thy doughty deed</l>
+               <l>Thou shalt not be called leud</l>
+               <l>In no place where thou goe</l>
+               <l>Then sayd Ardnada that sweet thing</l>
+               <l>Haue heer of me a good golde King</l>
+               <l>With a precious stone</l>
+               <l>Where so you be on water or land</l>
+               <l>And this King vppon your hand</l>
+               <l>Nothing may you s<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one</l>
+               <l>Gramercy sayd Eglamoure my Lady free</l>
+               <l>This fifteen yeeres wil I abide thee</l>
+               <l>So that ye will me wed</l>
+               <l>This w<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l I sweare so God me saue</l>
+               <l>King ne, Prince wil I none haue</l>
+               <l>If they be comely cled</l>
+               <l>Damosel he said par ma fay</l>
+               <l>By that time I shall you say</l>
+               <pb facs="tcp:19060:11"/>
+               <l>How that I haue sped</l>
+               <l>He took the Giants head and the Bore</l>
+               <l>And toward Attoys did he face</l>
+               <l>God help me at need</l>
+               <l>By that seuen weekes were come to end</l>
+               <l>Euen in Artoys he did lend</l>
+               <l>Where as Prinsamoure was</l>
+               <l>The Earle therof was greatly faine</l>
+               <l>That Eglamoure was come againe</l>
+               <l>So was bothe more and lesse</l>
+               <l>When Cristabel as white as Sun</l>
+               <l>Heard tell that Eglamoure was come</l>
+               <l>To him she went full yare</l>
+               <l>The Knight kissed that Lady gent</l>
+               <l>And then into the Hall he went</l>
+               <l>The Earle for to teen</l>
+               <l>The Earle answered and was ful of we</l>
+               <l>What Deuill may nothing thee slo</l>
+               <l>Forsooth right as I ween</l>
+               <l>Thou art about as I vnderstand</l>
+               <l>For to winne Artops and all my Land</l>
+               <l>And also my Daughter clene</l>
+               <l>Sir Eglamoure said so mot I thee</l>
+               <l>Not but if I woorthy be</l>
+               <l>So God giue me good rede</l>
+               <l>The Earle sayd such chaunce may fall</l>
+               <l>That one may come and quite all</l>
+               <l>Be thou neuer so prest</l>
+               <l>But good Lord I you pray</l>
+               <l>Oft welue weekes to giue me day</l>
+               <l>My wery body to rest</l>
+               <pb facs="tcp:19060:11"/>
+               <l>Twelue weekes were graunted thou.</l>
+               <l>By prayer of many a Gentleman</l>
+               <l>And comforted him with the best</l>
+               <l>Sir Eglamoure after supper</l>
+               <l>Went to Cristabels Chamber</l>
+               <l>With torches brenning bright</l>
+               <l>The Lady was of so great pride</l>
+               <l>She set him on her Bedside</l>
+               <l>And sayd welcome Sir Knight</l>
+               <l>Then Eglamoure did her tel</l>
+               <l>Of aduentures that him befel</l>
+               <l>But there he dwelled all night</l>
+               <l>Damosel he sayd so God me speed</l>
+               <l>I hope to God you for to wed</l>
+               <l>And then their troths plight</l>
+               <l>By that twelue weekes were come and gon</l>
+               <l>For Cristabel fayre as sonne</l>
+               <l>All wan wexed her hew</l>
+               <l>She sayd vnto her Maydens free</l>
+               <l>In that ye knowe my priuite</l>
+               <l>Look that ye be true</l>
+               <l>The Earle angerly gan fare</l>
+               <l>To Eglamoure he sayd make thee yare</l>
+               <l>For thy iourney is new</l>
+               <l>When Cristabel therof heard tel</l>
+               <l>She mourned bothe night and day</l>
+               <l>That all men might her rew</l>
+               <l>The Earle sayd there is me tolde long</l>
+               <l>Beside Roome there is a Dragon strong</l>
+               <l>Forsooth as I you say</l>
+               <l>The Dragon is of such renown</l>
+               <l>There dare no man come neer the town</l>
+               <l>By fiue mile and more</l>
+               <l>Arme thee wel and thither wond</l>
+               <pb facs="tcp:19060:12"/>
+               <l>Look that thou sley him with thine hond</l>
+               <l>Or els say me nay</l>
+               <l>Sir Eglamoure to the Chamber went</l>
+               <l>And took his leaue of that Lady gent</l>
+               <l>White as Flouce on feeld</l>
+               <l>Damosel he sayd, I haue to doon</l>
+               <l>I goe and come agayne right soon</l>
+               <l>Through the might of Mary m<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de</l>
+               <l>A golde Ring I will giue thee</l>
+               <l>Keep it wel for the to one of me</l>
+               <l>If Christe send me a Childe</l>
+               <l>And then in Romaunce as we say</l>
+               <l>To great Roome he took the way</l>
+               <l>To seek that Dragon wilde</l>
+               <l>If he were neuer so hardy a Knight</l>
+               <l>When of the Dragon he had a sight</l>
+               <l>His hart began to colde</l>
+               <l>Anon the Dragon waxed wroth</l>
+               <l>He smote Eglamoure and his steed bothe</l>
+               <l>That bothe to ground they fel</l>
+               <l>Eglamoure rose and to him set</l>
+               <l>And on that foule worme he bet</l>
+               <l>With strokes many and bolde</l>
+               <l>The Dragon shot fire with his mouth</l>
+               <l>And alway euen the more</l>
+               <l>He seemed &amp; Diuel of Hel</l>
+               <l>Sir Eglamoure neer him gan go</l>
+               <l>Halfe his tayle he <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ote him fro</l>
+               <l>Then he began to yel</l>
+               <l>And with the stump that yet was leaued</l>
+               <l>He smote Eglamoure on the head</l>
+               <l>That <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and fel</l>
+               <l>Sir Eglamoure neer him gan go</l>
+               <l>The Dragons head he smote of tho</l>
+               <pb facs="tcp:19060:12"/>
+               <l>Forsooth as I you say</l>
+               <l>His wings he smote of also</l>
+               <l>He smote the ridge bone in two</l>
+               <l>And wan the feeld that day</l>
+               <l>The Emperour of Roome lay in his tower</l>
+               <l>And fast beheld Sir Eglamoure</l>
+               <l>And to his Knights gan say</l>
+               <l>Doo cry in Roome the Dragon is slaine</l>
+               <l>A Knight him slew with might and maine</l>
+               <l>Manfully by my fay</l>
+               <l>Through Roome they made a cry</l>
+               <l>Euery Officer in his Bayly</l>
+               <l>The Dragon is slaine this day</l>
+               <l>And then the Emperour took the way</l>
+               <l>To the place where Eglamoure lay</l>
+               <l>Beside that foule thing</l>
+               <l>With all that might ride or gone</l>
+               <l>Sir Eglamoure they haue vp tane</l>
+               <l>And to the Town they can him bring</l>
+               <l>For ioy that the Dragon was slaine</l>
+               <l>They came with procession him againe</l>
+               <l>And Belles they did ring</l>
+               <l>The Emperour of Roome brought him home</l>
+               <l>Constantine that was his name</l>
+               <l>A Lord of great longing</l>
+               <l>All that euer saw his head</l>
+               <l>They sayd that Eglamoure was but dead</l>
+               <l>That Knight Sir Eglamoure</l>
+               <l>The Emperour had a Daughter bright.</l>
+               <l>She vnderook to heale the Knight</l>
+               <l>Her name was Viardus</l>
+               <l>With good salues she healed his head</l>
+               <l>And saued him fro the dead</l>
+               <l>That Lady of great valours.</l>
+               <pb facs="tcp:19060:13"/>
+               <l>And there within a little stound</l>
+               <l>She made Eglamoure whole and sound</l>
+               <l>God giue her honoure</l>
+               <l>Anon woord came to Artoys</l>
+               <l>H<gap reason="illegible" resp="#uom" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that the Dragon slayne was</l>
+               <l>A Knight that <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed hath doon</l>
+               <l>So long at the <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>echecraft he did dwel</l>
+               <l>That a fayre Sonne had Cristabel</l>
+               <l>As wh<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hales bone</l>
+               <l>Then the Earle made his vow</l>
+               <l>Daughter into the Sea shalt thou</l>
+               <l>In a ship by the one</l>
+               <l>Thy yung sonne shall be thy fere</l>
+               <l>Christendome getteth it none here</l>
+               <l>Her Maydens wept echt one</l>
+               <l>Her Mother in sown did tall</l>
+               <l>Right so did her freends all</l>
+               <l>That would her any good</l>
+               <l>Good Lord she sayd now I you pray</l>
+               <l>Let some Pre est a Gospel say</l>
+               <l>For dou<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in the Rood</l>
+               <l>Farewel she sayd my Maydens free</l>
+               <l>Greet wel my Lord when you him see</l>
+               <l>They wept as they were wood</l>
+               <l>Leaue we now of Sir Eglamoure</l>
+               <l>And speak we more of that Lady floure</l>
+               <l>That unknowen wayes yeed</l>
+               <l>The ship dro<gap reason="illegible" resp="#uom" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th night and day</l>
+               <l>Vp to a <gap reason="illegible" resp="#uom" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k the sooth to say</l>
+               <l>Where wilde Beasts did ten</l>
+               <l>She was full fayne I vnderstand</l>
+               <l>She <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> she had been in some Land</l>
+               <l>And vp then gan she wend</l>
+               <l>No maner of men found she there</l>
+               <pb facs="tcp:19060:13"/>
+               <l>But Foules and Beasts that there were</l>
+               <l>That fast fled from the hand</l>
+               <l>There came a Griffon that wrought her care</l>
+               <l>Her yung Childe away he bare</l>
+               <l>Into a Countrey vnknowen</l>
+               <l>The Lady wept and sayd alas</l>
+               <l>That euer she borne was</l>
+               <l>My Childe is taken me fro</l>
+               <l>The King of Israel on Hunting went</l>
+               <l>He saw where the Foule sent</l>
+               <l>And toward him gan he goe</l>
+               <l>A Griffon the book sayth that he hight</l>
+               <l>That in Israel did he light</l>
+               <l>that wrought that Lady woe</l>
+               <l>The Foule smote him with his bil</l>
+               <l>The Childe cryed and lyked ill</l>
+               <l>The Griston then left him there</l>
+               <l>A Gentlewoman to that gan passe</l>
+               <l>In a mantel of Scarlet lapped it was</l>
+               <l>And with a rich pane</l>
+               <l>The Childe was large of lim and lith</l>
+               <l>A girdel of Golde it was bound with</l>
+               <l>With wursse cloth it was not clad</l>
+               <l>The King swore by the rood</l>
+               <l>The Childe is come of gentle blood</l>
+               <l>Where so euer that he was tane</l>
+               <l>And for he fro the Griffon fel</l>
+               <l>They named the Childe Degrabel</l>
+               <l>that lost was in wilsome way</l>
+               <l>The King would hunt no more that tide</l>
+               <l>But with the Childe gan home ward ride</l>
+               <l>That fro the Griffon was hent</l>
+               <l>Madam he sayd to his Queene</l>
+               <l>Ful oft I haue on hunting be<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</l>
+               <pb facs="tcp:19060:14"/>
+               <l>This <gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y God hath me lent</l>
+               <l>Of that Childe she was blith</l>
+               <l>After notishes she sent beliue</l>
+               <l>The Childe was loouely and gent</l>
+               <l>Leaue we now of this Childe</l>
+               <l>And speak of his mother milde</l>
+               <l>To what Land God her sent</l>
+               <l>All that night on the Rock she lay</l>
+               <l>A winde Ose vppon the day</l>
+               <l>And from the Land her driueth</l>
+               <l>In that ship was neither Mast ne Ore</l>
+               <l>But euery streme after other</l>
+               <l>That fast vppon her goeth</l>
+               <l>And as the great Book of Roome sayes</l>
+               <l>She was without meat fiur dayes</l>
+               <l>Among the great Clistes</l>
+               <l>By that fiue dayes were gone</l>
+               <l>God sent her succoure soon</l>
+               <l>In Egipt vp she ariued</l>
+               <l>The King of Egipt lay in his Tower</l>
+               <l>And saw the Lady as white as Floure</l>
+               <l>That came right neere the Land</l>
+               <l>He commanded a Squier free</l>
+               <l>To look what in that ship might be</l>
+               <l>That is vppon the sand</l>
+               <l>The Squier went chither ful tite</l>
+               <l>On the ship boord he did smite</l>
+               <l>A Lady then vp gan stand</l>
+               <l>She might not speak to him a woord</l>
+               <l>But lay and looked ouer the doord</l>
+               <l>And made signes with her hand</l>
+               <l>The squier wist not what she ment</l>
+               <l>Againe to the King he went</l>
+               <l>And kneeled on his knee</l>
+               <pb facs="tcp:19060:14"/>
+               <l>Lord in the ship nothing is</l>
+               <l>Saue one in a womans likenes</l>
+               <l>That fast looked on me</l>
+               <l>But and she be of flesh and bone</l>
+               <l>A fayrer saw I neuer none</l>
+               <l>saue my Lady so free</l>
+               <l>she maketh signes with her hand</l>
+               <l>she seemeth of some farre Land</l>
+               <l>Vnknowen she is to me</l>
+               <l>Sir Marmaduke hight the King</l>
+               <l>He went to see that sweet thing</l>
+               <l>He went a good pace</l>
+               <l>To the Lady he sayd in same</l>
+               <l>Speak woman in Gods name</l>
+               <l>Against him she rose</l>
+               <l>The Lady that was so meek and milde</l>
+               <l>she had sore bewept her Childe</l>
+               <l>That almoste lost she was</l>
+               <l>Home to the Court they her led</l>
+               <l>With good meats there was she fed</l>
+               <l>With good wil she it taketh</l>
+               <l>Now good Damosell sayd the King</l>
+               <l>Where were ye borne my sweet thing</l>
+               <l>Ye are so bright of blee</l>
+               <l>Lord in Arroys borne I was</l>
+               <l>Sir Prinsamoure my Father is</l>
+               <l>That Lord is of that Countrie</l>
+               <l>I and my maidens went to play</l>
+               <l>By an arme of the Sea</l>
+               <l>The winde was lith a Boat there stood</l>
+               <l>I and my Squier in yode</l>
+               <l>But vnchristened was he</l>
+               <l>On Land I left my Maydens all</l>
+               <l>My yung Squier on sleep gan fall</l>
+               <pb facs="tcp:19060:15"/>
+               <l>My mantel on him I three</l>
+               <l>A Griffon there caine that wrought me care</l>
+               <l>My yung Squier a way he bare</l>
+               <l>South east with him he drew</l>
+               <l>Damesel he sayd be of good cheer</l>
+               <l>Thou art my Brothers Danghter deer</l>
+               <l>For ioy of them she lough</l>
+               <l>And there she did stil dwel</l>
+               <l>Til time that better be fel</l>
+               <l>With soy and mirth enough</l>
+            </lg>
+            <lg>
+               <l>NOw is Eglamoure whole and sound</l>
+               <l>And wel healed of his wound</l>
+               <l>Homewarde then would he fare</l>
+               <l>Of the Emperour took he leaue twis</l>
+               <l>Of the Daughter and of the Empresse</l>
+               <l>And of all the meiny that were there</l>
+               <l>Tristabel was moste in his thought</l>
+               <l>The Dragons head home he brought</l>
+               <l>On his speare he it bare</l>
+               <l>By that seuen weekes were come to end</l>
+               <l>In the Land of Areoys he gan lend</l>
+               <l>Where as the Earle gan fare</l>
+               <l>In the Court was tolde I vnderstand</l>
+               <l>How that Eglamoure was come to Land</l>
+               <l>With the Dragons head</l>
+               <l>His Squier rode agayne him soon</l>
+               <l>Sir thus hath our Lord doon</l>
+               <l>Fayre Cristabel is dead</l>
+               <l>A sayre Sonne she had beene</l>
+               <l>Bothe they are now forlorne</l>
+               <l>Through his false read</l>
+               <l>In a ship he put them t<gap reason="illegible" resp="#uom" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>And with the winde <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them go</l>
+               <l>Then sowned he where he stood</l>
+               <pb facs="tcp:19060:15"/>
+               <l>Alas then sayd the Knight so free</l>
+               <l>Lord where may my Maydens be</l>
+               <l>That in her Chamber was</l>
+               <l>His Squier answered him ful soon</l>
+               <l>As soon as she in Sea was doon</l>
+               <l>Eche one their way gan passe</l>
+               <l>Eglamoure went into the Hall</l>
+               <l>Before the Squiers and Knights all</l>
+               <l>And thou Earle of Arroys</l>
+               <l>Take he sayd the Dragons head</l>
+               <l>All is mine that heer is leaued</l>
+               <l>What doost thou in my place</l>
+               <l>Great dole it was to he are</l>
+               <l>When he called Cristabel his fere</l>
+               <l>What art thou drowned in the Sea</l>
+               <l>God that dyed on the rood bitterly</l>
+               <l>On thy soule haue mercy</l>
+               <l>And on that yung Childe so free</l>
+               <l>The Earle was so feard of Eglamoure</l>
+               <l>that he was faine to take the tower</l>
+               <l>that euermore woe him be</l>
+               <l>Eglamoure sayd so God me saue</l>
+               <l>All that the order of Knighthood will haue</l>
+               <l>Rise vp and goe with me</l>
+               <l>They were ful faine to doo his wil</l>
+               <l>Vp they rose and came him til</l>
+               <l>He gaue them order soone</l>
+               <l>The while that he in Hall abode</l>
+               <l>two and thirty Knights he made</l>
+               <l>Fro morne til it was noon</l>
+               <l>Those that liuing had none</l>
+               <l>He gaue them liuing to liue vppon</l>
+               <l>For Cristabe to pray soon</l>
+               <l>Then anon I vnderstand</l>
+               <pb facs="tcp:19060:16"/>
+               <l>He took the way to the Holy Land</l>
+               <l>Where God on the Rood was doon</l>
+               <l>Sir Eglamoure as you heer</l>
+               <l>He dwelled there fifteen yeer</l>
+               <l>The Heathen men among</l>
+               <l>Ful manfully there he him bare</l>
+               <l>Where any deeds of Armes were</l>
+               <l>Agayn them that liued wrong</l>
+               <l>In Battel or in Tournament</l>
+               <l>There might no man withstand his dent</l>
+               <l>But down right he them throng</l>
+               <l>By that fifteen yeeres were gone</l>
+               <l>His Sonne that the Griffon had tane</l>
+               <l>Was waxen vothe stiffe and strong</l>
+               <l>Now is Degrabel waxen wight</l>
+               <l>The King of Israel dubbed him a Knight</l>
+               <l>And Prince with his hand</l>
+               <l>Listen Lordings great and small</l>
+               <l>Of what maner of armes he bare</l>
+               <l>And ye will vnderstand</l>
+               <l>He bare in Azure a Griffon of Golde</l>
+               <l>Richly portraited on the molde</l>
+               <l>On his clawes hauging</l>
+               <l>A man Childe in a mantel</l>
+               <l>And with a Gerdle of Golde bound</l>
+               <l>Without any leasing</l>
+               <l>The King of Israel is waxen olde</l>
+               <l>to Degrabel his Sonne he tolde</l>
+               <l>I would thou had a Wife</l>
+               <l>While that I liue my Sonne deer</l>
+               <l>When I am dead thou hast no feer</l>
+               <l>Riches is so rife</l>
+               <l>A Messenger stood by the king</l>
+               <l>In Egipt is a sweet thing</l>
+               <pb facs="tcp:19060:16"/>
+               <l>I knowe none such on liue</l>
+               <l>The Knight forsooth this othe hath sworne</l>
+               <l>There shall none her haue that is borne</l>
+               <l>But he win her with strife</l>
+               <l>The King sayd by the rood</l>
+               <l>We wil not let if she be good</l>
+               <l>Haue doone and busk vs swithe</l>
+               <l>Anon right they made them yare</l>
+               <l>And their Armour to ship they bare</l>
+               <l>To passe the water beliue</l>
+               <l>By that seuen dayes were come to end</l>
+               <l>Into the Land of Egipt they gan lend</l>
+               <l>The vncouthed coasts to see</l>
+               <l>Messengers went before to tel</l>
+               <l>Heer commeth the King of Israel</l>
+               <l>With a faire mainy</l>
+               <l>And the Prince with many a Knight</l>
+               <l>For to haue your Daughter bright</l>
+               <l>If it your wil be</l>
+               <l>The King said I trowe I shall</l>
+               <l>Finde lodging for you all</l>
+               <l>Right welcome ye are to me</l>
+               <l>Then Trumpets in the ship rose</l>
+               <l>And euery man on Land goes</l>
+               <l>The Knights were clothed in Pall</l>
+               <l>This yung Knight of fifteen yeer</l>
+               <l>He tideth as ye may heare</l>
+               <l>A foot abooue them all</l>
+               <l>The King of Israel on Land</l>
+               <l>The King of Egipt by the hand him taketh</l>
+               <l>And led him into the Hall</l>
+               <l>Sir sayd the King for Charitie</l>
+               <l>Wil ye let me your Danghter see</l>
+               <l>White as bone of Whale</l>
+               <pb facs="tcp:19060:17"/>
+               <l>The Lady fro the Chamber was brought</l>
+               <l>With mans hands she seemed wrought</l>
+               <l>And carued out of tree</l>
+               <l>Her owne Sonne stood and beheld</l>
+               <l>Wel woorth him that might weld</l>
+               <l>Thus to him self thought he</l>
+               <l>The King of Israel asked than</l>
+               <l>If that she might passe the streme</l>
+               <l>His Sonnes wife for to be</l>
+               <l>Sir sayd the King if that ye may</l>
+               <l>Meet me a stroke to morowe day</l>
+               <l>Thine asking graunt I thee</l>
+               <l>Lords in Hall were set</l>
+               <l>And Waits blew to the meat</l>
+               <l>They made all royall cheer</l>
+               <l>The two Knights the Dese began</l>
+               <l>Sir Degravet and his mother than</l>
+               <l>They two were lib full neer</l>
+               <l>Then Knights went to sit iwis</l>
+               <l>And euery man to his office</l>
+               <l>To serue the Knights deer</l>
+               <l>And after meat washed they</l>
+               <l>And Clarks the grace can say</l>
+               <l>In Hall as you may heer</l>
+               <l>Then on morowe when day sprong</l>
+               <l>Gentlemen on their Armout throng</l>
+               <l>Degrabel he was dight</l>
+               <l>The King of Egipt gan him say</l>
+               <l>In a fayre feeld that day</l>
+               <l>With many a noble Knight</l>
+               <l>What time the great Lords him <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>They asked what Lord that might be</l>
+               <l>With the Griffon so bright</l>
+               <l>The rulers of that game gan tel</l>
+               <pb facs="tcp:19060:17"/>
+               <l>This is the Prince of Israel</l>
+               <l>Beware for he is wight</l>
+               <l>The King of Egipt took a shaft</l>
+               <l>The Prince saw that and sadly sat</l>
+               <l>If he were neuer so keene</l>
+               <l>Againe the King he made him bown</l>
+               <l>Vpon the ground so green</l>
+               <l>The King sayd so God me saue</l>
+               <l>Thou art woorthy her to haue</l>
+               <l>So sayd they all by deen</l>
+               <l>Euery Lord gan other assay</l>
+               <l>And Squiers on the other day</l>
+               <l>That doutie were of deed</l>
+               <l>Sir Degrabel his troth he plight</l>
+               <l>And Cristabel that Lady bright</l>
+               <l>To Church they her led</l>
+               <l>Through the might of God he sped</l>
+               <l>His owne Mother there he wed</l>
+               <l>In Romaunce as we read</l>
+               <l>she sawe his Armes him beforue</l>
+               <l>she thought on him that was forlorne</l>
+               <l>she wept like to be dead</l>
+               <l>What cheer he sayd my Lady cleer</l>
+               <l>Why weep you and make euil cheer</l>
+               <l>Me think ye are in thought</l>
+               <l>Sir in your Armes now I see</l>
+               <l>A Foule that on a time</l>
+               <l>A Childe that I deer bought</l>
+               <l>That in a Scarlet mantel was wound</l>
+               <l>And with a gerdle of Golde bound</l>
+               <l>That richly was wrought</l>
+               <l>The King of Israel sayd ful right</l>
+               <l>In my Forest the Foule gan light</l>
+               <l>A Griffon to Land him bronght</l>
+               <pb facs="tcp:19060:18"/>
+               <l>He sayd to a Squierful heend</l>
+               <l>And bad him for the mantel wend</l>
+               <l>That he was in layd</l>
+               <l>Before him it was brought ful yare</l>
+               <l>The mantel and the gerdle thare</l>
+               <l>That richly were graued</l>
+               <l>Alas then sayd that Lady free</l>
+               <l>This same the Griffon took from me</l>
+               <l>In sowning down she braid</l>
+               <l>How long agon the King gan say</l>
+               <l>Fifteen yeer Sir par ma fay</l>
+               <l>They assented to that she sayd</l>
+               <l>Forsooth my Sonne I am afrayd</l>
+               <l>That to sib mariage we haue made</l>
+               <l>In the beginning of this Moon</l>
+               <l>Damosel look so God me saue</l>
+               <l>Which of my Knights thou wilt haue</l>
+               <l>Then Degrabel answered soon</l>
+               <l>Sir I holde your Earles good</l>
+               <l>And soo I doo my Mother by the rood</l>
+               <l>That I wedded before the noon</l>
+               <l>There shall none haue her certainly</l>
+               <l>But if he win her with maistry</l>
+               <l>As I my self haue doon</l>
+               <l>Then euery Lord to other gan say</l>
+               <l>For her wil I make delay</l>
+               <l>With a Speare and Sheeld in hand</l>
+               <l>Who so may win that Lady cleer</l>
+               <l>For to be his wedded feer</l>
+               <l>Sir Eglamoure was homeward bown</l>
+               <l>He heard tel of that great renown</l>
+               <l>And thither would he wend</l>
+               <l>Great Lords that heard of that cry</l>
+               <l>Thither they rode ful hastely</l>
+               <pb facs="tcp:19060:18"/>
+               <l>As fast as they might fare</l>
+               <l>The King of Satin was there also</l>
+               <l>And other great Lords mo</l>
+               <l>That royall armes bare</l>
+               <l>Then rings were made in the feeld</l>
+               <l>That Lords might therin weld</l>
+               <l>They busked and made them yare</l>
+               <l>Sir Eglamoure though he came last</l>
+               <l>He was not woorthy out to be cast</l>
+               <l>That Knight was clothed in care</l>
+               <l>For that Cristabel was put in the Sea</l>
+               <l>New Armes beareth he</l>
+               <l>I will them disery</l>
+               <l>He beareth in Azure a ship of Golde</l>
+               <l>Ful richly portreyed on the molde</l>
+               <l>Ful wel and woorthyly</l>
+               <l>The Sea was made dothe grim and bolde</l>
+               <l>A yung Childe of a night olde</l>
+               <l>And a woman lying therby</l>
+               <l>Of Siluer was the Mast, of Golde the fane</l>
+               <l>Sayle, Rope, Cabels echone</l>
+               <l>Paynted were woorthily</l>
+               <l>Heralds of Armes soon on hye</l>
+               <l>Euery Lords Armes gan disery</l>
+               <l>In that feeld so broad</l>
+               <l>Then Cristabel as white as Floure</l>
+               <l>she sat vpon an hye Tower</l>
+               <l>For her that cry was made</l>
+               <l>The yung Knight of fifteen yeer olde</l>
+               <l>That was bothe douty and bolde</l>
+               <l>In to the feeld he rode</l>
+               <l>Who so that Sir Degrabel did smite</l>
+               <l>With his dint they fel tite</l>
+               <l>Neuer one his stroke abode</l>
+               <pb facs="tcp:19060:19"/>
+               <l>Sir Eglamoure hooued and beheld</l>
+               <l>How the folke in the feeld down feld</l>
+               <l>The Knights all be deen</l>
+               <l>When Degrabel him see he rode him til</l>
+               <l>And sayd Sir why are ye so stil</l>
+               <l>Among all these Knights keen</l>
+               <l>Eglamoure sayd to him iwis</l>
+               <l>I am come out of Heathenes</l>
+               <l>It were sinne me to meet</l>
+               <l>Degrabel sayd so mot I thee</l>
+               <l>More woorship it had been to thee</l>
+               <l>Vnarmed to haue been</l>
+               <l>The Father on the Sonne lough</l>
+               <l>Haue ye not had Iusting enough</l>
+               <l>Where euer that ye be</l>
+               <l>That day fall haue I seene</l>
+               <l>With as big men haue I been</l>
+               <l>And yet wel gone my way</l>
+               <l>And yet forsooth said he than</l>
+               <l>I will doo as well as I can</l>
+               <l>With you once to play</l>
+               <l>Hard togither the Knights dong</l>
+               <l>With great speares sharp and long</l>
+               <l>Them beheld eche one</l>
+               <l>Sir Eglamoure as it was hap</l>
+               <l>He gaue his Sonne such a rap</l>
+               <l>That to the ground went he</l>
+               <l>Alas then sayd that Lady free</l>
+               <l>My Sonne is dead by Gods pittie</l>
+               <l>The keen knight hath him slaine</l>
+               <l>Then men sayd wholy on molde</l>
+               <l>The Knight that beares the ship of Golde</l>
+               <l>Hath wun her on the plaine</l>
+               <l>Heralds of Armes cryed than</l>
+               <pb facs="tcp:19060:19"/>
+               <l>Is there now any maner of man</l>
+               <l>Wil make his body good</l>
+               <l>That wil Iust any more</l>
+               <l>Say now while we be heer</l>
+               <l>Degrabel sayd by God almight</l>
+               <l>Me think that I durst with him fight</l>
+               <l>If he were neuer so wood</l>
+               <l>Lords togither made a vow</l>
+               <l>Forsooth they sayd best woorthy art thou</l>
+               <l>To haue thy freely food</l>
+               <l>For to vnarme him Lords gan go</l>
+               <l>Clothes of Golde on him they doo</l>
+               <l>To meat then gan they wend</l>
+               <l>Sir Eglamoure then wan the gree</l>
+               <l>Beside that Lady set was he</l>
+               <l>She fayned him as her freend</l>
+               <l>For what cause that he bore</l>
+               <l>A ship of Golde with Mast and Ore</l>
+               <l>He sayd with woords wend</l>
+               <l>Damosel in to the Sea was doon</l>
+               <l>My Lady and my yung Sonne</l>
+               <l>And there they made an end</l>
+               <l>Knowledge to him took she tho</l>
+               <l>Now good Sir tel me so</l>
+               <l>That they were brought to ground</l>
+               <l>While I was in far Countrey</l>
+               <l>Her Father put her into the Sea</l>
+               <l>With the waues to found</l>
+               <l>With honest mirth and game</l>
+               <l>Of him she asked his name</l>
+               <l>And he answered that stound</l>
+               <l>Men call me where I was borne</l>
+               <l>Eglamoure of Artoys</l>
+               <l>That with a worme was wound</l>
+               <pb facs="tcp:19060:20"/>
+               <l>In sowning fel that Lady free</l>
+               <l>Welcome Sir Eglamoure to me</l>
+               <l>Thy looue I haue bought ful deer</l>
+               <l>Then she sat and tolde ful soon</l>
+               <l>How she into the sea was doon</l>
+               <l>Then wept bothe lesse and more</l>
+               <l>Minstrels had their gifts free</l>
+               <l>Wherby they might the better be</l>
+               <l>To spend they would not space</l>
+               <l>Ful true it is by God in Heauen</l>
+               <l>That men meet at vnset steuen</l>
+               <l>And so it befel there</l>
+               <l>The King of Israel gan tel</l>
+               <l>How that he found sir Degrabel</l>
+               <l>Lordings listen than</l>
+               <l>Sir Eglamoure kneeled on his knee</l>
+               <l>My Lord he sayd God yeeld it thee</l>
+               <l>Ye haue made him a man</l>
+               <l>The King of Israel said I wil thee giue</l>
+               <l>Half my Kingdome while I liue</l>
+               <l>My deer sonne as white as Swan</l>
+               <l>Thou shalt haue my Daughter Ardnada</l>
+               <l>The King of Satin sayd also</l>
+               <l>I remember since thou her wan</l>
+               <l>Eglamoure prayed the Kings three</l>
+               <l>At his wedding for to be</l>
+               <l>If that they would vouchsaue</l>
+               <l>All graunted him that there wore</l>
+               <l>Little, lesse and more</l>
+               <l>Lord Iesus Christe them haue</l>
+               <l>Kings, Earles I vnderstand</l>
+               <l>And woorthy Dukes of many a Land</l>
+               <l>With ioy and mirth enough</l>
+               <l>The Trumpets in the ship blowes</l>
+               <pb facs="tcp:19060:20"/>
+               <l>That euery man to ship goes</l>
+               <l>The winde them ouerblew</l>
+               <l>Through Gods might all his mainy</l>
+               <l>In good liking passed the sea</l>
+               <l>In Artoys they did ariue</l>
+               <l>The Earle then in a Tower stood</l>
+               <l>He saw men passe the salt flood</l>
+               <l>And fast to his horse gan driue</l>
+               <l>When he heard of Eglamoure</l>
+               <l>He fel out of his Tower</l>
+               <l>And brake his neck beliue</l>
+               <l>The Messengers went agayne to tel</l>
+               <l>Of that case how it befel</l>
+               <l>With God may no man striue</l>
+               <l>Thus in Artoys the Lords were lent</l>
+               <l>After the Emperour soon they sent</l>
+               <l>To come to that mariage</l>
+               <l>In all the Land they did cry</l>
+               <l>Who so would come to that feast woorthy</l>
+               <l>Right welcome should they be</l>
+               <l>Sir Eglamoure to the Church is gone</l>
+               <l>Degrabel and Ardnada they haue tane</l>
+               <l>And his Lady bright of blee</l>
+               <l>The King of Israel sayd I giue</l>
+               <l>Half my Land while I liue</l>
+               <l>Brook wel all after my day</l>
+               <l>With mickle mirth the feast was made</l>
+               <l>Forty dayes it abode</l>
+               <l>Among all Lords hend</l>
+               <l>And then forsooth as I you say</l>
+               <l>Euery man took his way</l>
+               <l>Where him liked to dwel</l>
+               <l>Minstrels had good great plenty</l>
+               <l>That euer the better may they be</l>
+               <pb facs="tcp:19060:21"/>
+               <l>And bolder for to spend</l>
+               <l>In Romaunce this Cronicle is</l>
+               <l>Deere Iesus bring vs to thy blisse</l>
+               <l>That lasteth without end.</l>
+            </lg>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by William Copland</p>
+            <pb facs="tcp:19060:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
